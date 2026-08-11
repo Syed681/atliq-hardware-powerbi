@@ -173,3 +173,23 @@ Gross Margin
 Operational Expense
       ↓
 Net Profit
+
+---
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/Atliq_Bi_Executive_Page%281%29.png)
+
+### Finance Dashboard
+
+![Finance Dashboard](screenshots/Atliq_Bi_Finance_page%281%29.png)
+
+### Supply Chain Dashboard
+
+![Supply Chain Dashboard](screenshots/Atliq_Bi_Supply_Cha      in_Page%281%29.png)
+
+### Project Home
+
+![Project Home](screenshots/Atliq_Bi_Home_Page%281%29.png)
