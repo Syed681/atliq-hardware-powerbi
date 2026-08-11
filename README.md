@@ -172,10 +172,10 @@ Gross Margin
       ↓
 Operational Expense
       ↓
-Net Profit
+Net Profit 
 
 ---
-
+```
 ## Dashboard Preview
 
 ### Executive Dashboard
